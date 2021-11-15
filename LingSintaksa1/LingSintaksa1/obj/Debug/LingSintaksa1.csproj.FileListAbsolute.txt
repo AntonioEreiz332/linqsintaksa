@@ -1,0 +1,7 @@
+C:\Users\toni-PC\source\repos\LingSintaksa1\LingSintaksa1\bin\Debug\LingSintaksa1.exe.config
+C:\Users\toni-PC\source\repos\LingSintaksa1\LingSintaksa1\bin\Debug\LingSintaksa1.exe
+C:\Users\toni-PC\source\repos\LingSintaksa1\LingSintaksa1\bin\Debug\LingSintaksa1.pdb
+C:\Users\toni-PC\source\repos\LingSintaksa1\LingSintaksa1\obj\Debug\LingSintaksa1.csprojAssemblyReference.cache
+C:\Users\toni-PC\source\repos\LingSintaksa1\LingSintaksa1\obj\Debug\LingSintaksa1.csproj.CoreCompileInputs.cache
+C:\Users\toni-PC\source\repos\LingSintaksa1\LingSintaksa1\obj\Debug\LingSintaksa1.exe
+C:\Users\toni-PC\source\repos\LingSintaksa1\LingSintaksa1\obj\Debug\LingSintaksa1.pdb
